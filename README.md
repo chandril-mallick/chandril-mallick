@@ -1,25 +1,32 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F72C2C&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Chandril+Mallick+%F0%9F%91%8B;CSE+Undergrad+%7C+Tech+Entrepreneur;Building+the+Future+of+Health-Tech;AI+%E2%80%A2+IoT+%E2%80%A2+AR/VR+%E2%80%A2+Full-Stack)](https://git.io/typing-svg)
 
-## 👨‍💻 About Me
+##  About Me
 
-I am a Computer Science undergraduate, tech entrepreneur, and innovator with a passion for leveraging technology to solve real-world problems. My focus is on building impactful, scalable solutions at the intersection of **Artificial Intelligence, IoT, and Healthcare**.
+I am a Computer Science undergraduate, tech entrepreneur, and builder passionate about creating practical, scalable, and impactful solutions.  
+My work spans the intersection of **Artificial Intelligence, IoT, Computer Vision, and Healthcare**, where I focus on solving real problems with intelligent, data-driven technology.
 
-I am driven by the goal of turning ambitious ideas into reality, and I am currently deepening my expertise in Machine Learning and cross-platform development.
-
----
-
-## 🚀 What I'm Building
-
-Here are some of the ventures I'm currently working on:
-
-* 🩺 **HealX:** An on-demand platform designed for 15-minute medicine delivery.
-* 🚽 **SmartHealth Loo:** An AI & IoT-powered system for non-invasive health monitoring via smart toilets.
-* 🌱 **FarmBox:** A farm-to-table subscription service connecting consumers directly with local farms.
-* 📦 **Multi-Platform Inventory Systems:** Scalable inventory management solutions for businesses.
+I’m driven by the ambition to turn bold ideas into working products—whether it’s developing AI-powered systems, designing IoT-driven health devices, or building full-stack platforms.  
+Currently, I am strengthening my expertise in **Machine Learning, LLMs, Vision AI, and cross-platform development** as I work on multiple high-impact innovations.
 
 ---
 
-## 🛠️ My Tech Stack
+##  What I'm Building
+
+###  Dabba AI Ecosystem – AI-Powered Universities
+
+I’m building **Dabba AI Ecosystem**, a next-generation AI platform designed specifically for **universities and educational institutions**.
+
+Dabba AI enables any university to **train its own AI** using its internal academic content — syllabus, notes, question papers, policies, circulars, and documents — through a **Single API Key Auto-Learning Engine**.  
+Instead of relying on generic AI tools, institutions get their own **context-aware, private, and self-learning AI system.**
+
+
+
+####  Vision
+
+With Dabba AI Ecosystem, my goal is to help institutions become **AI-powered, self-evolving campuses** —  
+where universities don’t just *use* AI, they **own, train, and grow their own AI**.
+
+##  My Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,7 +46,7 @@ Here are some of the ventures I'm currently working on:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
 
-## 🤖 AI / ML & Deep Learning
+## AI / ML & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=yellow)
 ![LangChain](https://img.shields.io/badge/LangChain-1A73E8?style=for-the-badge&logo=chainlink&logoColor=white)
@@ -80,7 +87,7 @@ Here are some of the ventures I'm currently working on:
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -105,12 +112,7 @@ Here are some of the ventures I'm currently working on:
     alt="GitHub Streak" 
   />
 
-  <!-- Trophy -->
-  <br/><br/>
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=chandril-mallick&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=true" 
-    alt="GitHub Trophies" 
-  />
+  
 
 </div>
 
