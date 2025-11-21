@@ -82,23 +82,49 @@ Here are some of the ventures I'm currently working on:
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandril-mallick&show_icons=true&theme=radical" alt="Chandril's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandril-mallick&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandril-mallick&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandril-mallick&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
-</p>
+<div align="center">
 
-### My Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandril-mallick&bg_color=0d1117&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true" alt="Chandril's Activity Graph" />
-</p>
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=chandril-mallick&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" 
+    height="170" 
+    alt="GitHub Stats" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandril-mallick&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" 
+    height="170" 
+    alt="Top Languages" 
+  />
+
+  <!-- GitHub Streak -->
+  <br/><br/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=chandril-mallick&theme=tokyonight&hide_border=true&border_radius=15" 
+    height="180" 
+    alt="GitHub Streak" 
+  />
+
+  <!-- Trophy -->
+  <br/><br/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=chandril-mallick&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=true" 
+    alt="GitHub Trophies" 
+  />
+
+</div>
 
 ---
+
+## 🔥 My Activity Graph
+
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=chandril-mallick&theme=tokyo-night&hide_border=true&custom_title=Chandril%20Mallick%20-%20Contribution%20Graph" 
+    alt="Activity Graph" 
+  />
+</div>
+
 
 ## 📫 Let's Connect
 
