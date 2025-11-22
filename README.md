@@ -92,11 +92,7 @@ where universities don’t just *use* AI, they **own, train, and grow their own 
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=chandril-mallick&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" 
-    height="170" 
-    alt="GitHub Stats" 
-  />
+ 
 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandril-mallick&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" 
@@ -104,17 +100,7 @@ where universities don’t just *use* AI, they **own, train, and grow their own 
     alt="Top Languages" 
   />
 
-  <!-- GitHub Streak -->
-  <br/><br/>
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=chandril-mallick&theme=tokyonight&hide_border=true&border_radius=15" 
-    height="180" 
-    alt="GitHub Streak" 
-  />
-
   
-
-</div>
 
 ---
 
