@@ -2,7 +2,7 @@
 
 ##  About Me
 
-I am a Computer Science undergraduate, tech entrepreneur, and builder passionate about creating practical, scalable, and impactful solutions.  
+I am a Computer Science undergraduate,  and builder passionate about creating practical, scalable, and impactful solutions.  
 My work spans the intersection of **Artificial Intelligence, IoT, Computer Vision, and Healthcare**, where I focus on solving real problems with intelligent, data-driven technology.
 
 I’m driven by the ambition to turn bold ideas into working products—whether it’s developing AI-powered systems, designing IoT-driven health devices, or building full-stack platforms.  
