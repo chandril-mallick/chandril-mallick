@@ -104,7 +104,7 @@ where universities don’t just *use* AI, they **own, train, and grow their own 
 
 ---
 
-## 🔥 My Activity Graph
+##  My Activity Graph
 
 <div align="center">
   <img 
@@ -114,7 +114,7 @@ where universities don’t just *use* AI, they **own, train, and grow their own 
 </div>
 
 
-## 📫 Let's Connect
+##  Let's Connect
 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out!
 
