@@ -131,27 +131,23 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 ## ❤️ Support My Work
 
-I build open-source AI systems, IoT health-tech devices, and full-stack platforms that help students, universities, and developers.  
-If my work adds value to you or inspires you, consider becoming a sponsor and supporting my journey.  
-Your sponsorship helps me:
+---
 
-Build more open-source AI + IoT projects  
-Add new features and improvements  
-Handle hosting, research, and development costs  
-Keep all tools free and accessible to everyone  
+##  Fuel the Mission
 
-<div align="center">
+I’m building India’s next-gen AI + IoT innovations —  
+from SmartSant IoT (AI disease prediction) to Dabba AI (self-learning university AI ecosystem).
+
+If you believe in the vision, support the journey.
 
 ### **💖 Become a Sponsor**
 
 <a href="https://github.com/sponsors/chandril-mallick">
   <img src="https://img.shields.io/badge/Sponsor%20Me-FF4081?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 </div>
 
 ---
-
 
 
 ---
