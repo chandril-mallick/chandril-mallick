@@ -128,6 +128,33 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 </p>
 
 ---
+
+## ❤️ Support My Work
+
+I build open-source AI systems, IoT health-tech devices, and full-stack platforms that help students, universities, and developers.  
+If my work adds value to you or inspires you, consider becoming a sponsor and supporting my journey.  
+Your sponsorship helps me:
+
+Build more open-source AI + IoT projects  
+Add new features and improvements  
+Handle hosting, research, and development costs  
+Keep all tools free and accessible to everyone  
+
+<div align="center">
+
+### **💖 Become a Sponsor**
+
+<a href="https://github.com/sponsors/chandril-mallick">
+  <img src="https://img.shields.io/badge/Sponsor%20Me-FF4081?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+
+
+---
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=chandril-mallick.chandril-mallick" alt="Profile views"/>
 </p>
