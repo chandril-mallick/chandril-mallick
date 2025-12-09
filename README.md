@@ -102,7 +102,7 @@ where universities don’t just *use* AI, they **own, train, and grow their own 
   />
 
   ### 📊 Activity Overview
-  <img src="https://github.com/chandril-mallick/chandril-mallick/blob/metrics/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github.com/chandril-mallick/chandril-mallick/blob/metrics/github-metrics.svg?raw=true" alt="Metrics" width="100%">
 
 
   
