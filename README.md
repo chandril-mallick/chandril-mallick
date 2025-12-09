@@ -87,19 +87,7 @@ where universities don’t just *use* AI, they **own, train, and grow their own 
 
 ---
 
-##  GitHub Statistics
 
-<div align="center">
-
-  <!-- GitHub Stats -->
- 
-
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandril-mallick&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" 
-    height="170" 
-    alt="Top Languages" 
-  />
 
   ### 📊 Activity Overview
   <img src="https://github.com/chandril-mallick/chandril-mallick/blob/metrics/github-metrics.svg?raw=true" alt="Metrics" width="100%">
