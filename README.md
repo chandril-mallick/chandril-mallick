@@ -96,17 +96,6 @@ where universities don’t just *use* AI, they **own, train, and grow their own 
 
   
 
----
-
-##  My Activity Graph
-
-<div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=chandril-mallick&theme=tokyo-night&hide_border=true&custom_title=Chandril%20Mallick%20-%20Contribution%20Graph" 
-    alt="Activity Graph" 
-  />
-</div>
-
 
 ##  Let's Connect
 
