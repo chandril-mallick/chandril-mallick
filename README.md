@@ -86,15 +86,6 @@ where universities don’t just *use* AI, they **own, train, and grow their own 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
-
-
-
-  ###  Activity Overview
-  <img src="https://github.com/chandril-mallick/chandril-mallick/blob/metrics/github-metrics.svg?raw=true" alt="Metrics" width="100%">
-
-
-  
 
 
 ##  Let's Connect
