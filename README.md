@@ -1,38 +1,35 @@
 Metrics branch
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F72C2C&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Chandril+Mallick+%F0%9F%91%8B;CSE+Undergrad+%7C+Tech+Entrepreneur;Building+the+Future+of+Health-Tech;AI+%E2%80%A2+IoT+%E2%80%A2+AR/VR+%E2%80%A2+Full-Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F72C2C&center=true&vCenter=true&width=1000&lines=Applied+ML+Engineer+%3B+Full-Stack+AI%2FML+Developer+%3B+Focusing+on+RAG-based+systems+and+Cloud+Architecture)](https://git.io/typing-svg)
 
 ##  About Me
 
-I am a Computer Science undergraduate,  and builder passionate about creating practical, scalable, and impactful solutions.  
-My work spans the intersection of **Artificial Intelligence, IoT, Computer Vision, and Healthcare**, where I focus on solving real problems with intelligent, data-driven technology.
+I am an **Applied Machine Learning Engineer** specializing in the development and deployment of **Large Language Models (LLMs)** and **Computer Vision** systems. My work is focused on architecting **production-ready, scalable solutions** across the Health-Tech and Ed-Tech verticals.
 
-I’m driven by the ambition to turn bold ideas into working products—whether it’s developing AI-powered systems, designing IoT-driven health devices, or building full-stack platforms.  
-Currently, I am strengthening my expertise in **Machine Learning, LLMs, Vision AI, and cross-platform development** as I work on multiple high-impact innovations.
+I prioritize moving models from research to deployment, designing for **data-driven impact** and **system reliability**. I am proficient in the full lifecycle of an AI product:
+
+* **Model Engineering:** Designing and evaluating generative AI/RAG architectures.
+* **System Design:** Building robust, containerized backends for low-latency API serving.
+* **Cross-Platform Deployment:** Leveraging frameworks like **Flutter** to deliver intelligent solutions directly to end-users.
+
+Currently focused on deepening expertise in MLOps and **Transformer-based Vision Models**.
 
 ---
 
 ##  What I'm Building
 
-###  Dabba AI Ecosystem – AI-Powered Universities
-
-I’m building **Dabba AI Ecosystem**, a next-generation AI platform designed specifically for **universities and educational institutions**.
-
-Dabba AI enables any university to **train its own AI** using its internal academic content — syllabus, notes, question papers, policies, circulars, and documents — through a **Single API Key Auto-Learning Engine**.  
-Instead of relying on generic AI tools, institutions get their own **context-aware, private, and self-learning AI system.**
+## Dabba AI Ecosystem: A Technical Deep Dive
+Project Title: Contextual RAG System for Enterprise Knowledge Retrieval
 
 
+This is my flagship project: an end-to-end Retrieval-Augmented Generation (RAG) platform designed to solve the context and privacy challenges of generalized LLMs within educational institutions. It transforms vast, unstructured academic data (syllabi, policies, Q-papers) into a highly accurate, private, and interactive knowledge retrieval system.
 
-####  Vision
-
-With Dabba AI Ecosystem, my goal is to help institutions become **AI-powered, self-evolving campuses** —  
-where universities don’t just *use* AI, they **own, train, and grow their own AI**.
+The system is engineered as a microservice architecture built for scalability and low-latency querying
 
 ##  My Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### Frontend Development
