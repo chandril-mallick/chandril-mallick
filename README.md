@@ -11,44 +11,71 @@ I prioritize moving models from research to deployment, designing for **data-dri
 * **System Design:** Building robust, containerized backends for low-latency API serving.
 * **Cross-Platform Deployment:** Leveraging frameworks like **Flutter** to deliver intelligent solutions directly to end-users.
 
-Currently focused on deepening expertise in MLOps and **Transformer-based Vision Models**.
+
+
+
 ```mermaid
-flowchart TD
-    A[ My Skills ]:::root
+flowchart LR
+    A[ MY SKILLS]:::root
 
-    A --> B[ Core ML & Data]
-    A --> C[ Generative AI & RAG]
-    A --> D[ Deep Learning & Vision]
-    A --> E[ MLOps & Experimentation]
-    A --> F[ Full-Stack Engineering]
+    %% ===== CORE ML =====
+    subgraph B[ Core ML & Data]
+        B1[Python]
+        B2[NumPy]
+        B3[Pandas]
+        B4[Scikit Learn]
+    end
 
-    B --> B1[Python]
-    B --> B2[NumPy · Pandas]
-    B --> B3[Scikit-Learn]
+    %% ===== GEN AI =====
+    subgraph C[ Generative AI and RAG]
+        C1[LangChain]
+        C2[RAG Pipelines]
+        C3[FAISS]
+        C4[Hugging Face]
+        C5[OpenAI APIs]
+    end
 
-    C --> C1[LangChain]
-    C --> C2[RAG Pipelines]
-    C --> C3[FAISS]
-    C --> C4[Hugging Face]
-    C --> C5[OpenAI APIs]
+    %% ===== VISION =====
+    subgraph D[ Deep Learning and Vision]
+        D1[PyTorch]
+        D2[Transformers]
+        D3[OpenCV]
+        D4[PaddleOCR]
+    end
 
-    D --> D1[PyTorch]
-    D --> D2[Transformers]
-    D --> D3[OpenCV]
-    D --> D4[PaddleOCR]
+    %% ===== MLOPS =====
+    subgraph E[ MLOps and Experimentation]
+        E1[MLflow]
+        E2[Weights and Biases]
+        E3[CI CD Automation]
+    end
 
-    E --> E1[MLflow]
-    E --> E2[Weights & Biases]
-    E --> E3[CI/CD Automation]
+    %% ===== FULL STACK =====
+    subgraph F[ Full Stack Engineering]
+        F1[React and Next.js]
+        F2[Flutter]
+        F3[Node.js]
+        F4[Databases]
+        F5[Docker and Git]
+    end
 
-    F --> F1[React · Next.js]
-    F --> F2[Flutter]
-    F --> F3[Node.js]
-    F --> F4[Databases]
-    F --> F5[Docker · Git]
+    %% Connections
+    A --> B
+    A --> C
+    A --> D
+    A --> E
+    A --> F
 
-    classDef root fill:#020617,color:#e5e7eb,stroke:#22c55e,stroke-width:3px;
-    classDef default fill:#0f172a,color:#e5e7eb,stroke:#38bdf8;
+    %% Styles
+    classDef root fill:#020617,color:#ffffff,stroke:#22c55e,stroke-width:4px;
+
+    style B fill:#0f172a,stroke:#38bdf8,stroke-width:3px,color:#e5e7eb
+    style C fill:#2a143a,stroke:#e879f9,stroke-width:3px,color:#f5d0fe
+    style D fill:#0f2a1d,stroke:#4ade80,stroke-width:3px,color:#dcfce7
+    style E fill:#2a1f0f,stroke:#facc15,stroke-width:3px,color:#fef9c3
+    style F fill:#0b1c2d,stroke:#60a5fa,stroke-width:3px,color:#dbeafe
+
+
 ```
 
 ---
