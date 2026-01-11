@@ -12,6 +12,44 @@ I prioritize moving models from research to deployment, designing for **data-dri
 * **Cross-Platform Deployment:** Leveraging frameworks like **Flutter** to deliver intelligent solutions directly to end-users.
 
 Currently focused on deepening expertise in MLOps and **Transformer-based Vision Models**.
+```mermaid
+flowchart TD
+    A[ My Skills ]:::root
+
+    A --> B[ Core ML & Data]
+    A --> C[ Generative AI & RAG]
+    A --> D[ Deep Learning & Vision]
+    A --> E[ MLOps & Experimentation]
+    A --> F[ Full-Stack Engineering]
+
+    B --> B1[Python]
+    B --> B2[NumPy · Pandas]
+    B --> B3[Scikit-Learn]
+
+    C --> C1[LangChain]
+    C --> C2[RAG Pipelines]
+    C --> C3[FAISS]
+    C --> C4[Hugging Face]
+    C --> C5[OpenAI APIs]
+
+    D --> D1[PyTorch]
+    D --> D2[Transformers]
+    D --> D3[OpenCV]
+    D --> D4[PaddleOCR]
+
+    E --> E1[MLflow]
+    E --> E2[Weights & Biases]
+    E --> E3[CI/CD Automation]
+
+    F --> F1[React · Next.js]
+    F --> F2[Flutter]
+    F --> F3[Node.js]
+    F --> F4[Databases]
+    F --> F5[Docker · Git]
+
+    classDef root fill:#020617,color:#e5e7eb,stroke:#22c55e,stroke-width:3px;
+    classDef default fill:#0f172a,color:#e5e7eb,stroke:#38bdf8;
+```
 
 ---
 
