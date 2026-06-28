@@ -1,33 +1,60 @@
-Metrics branch
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F72C2C&center=true&vCenter=true&width=1000&lines=Applied+ML+Engineer+%3B+Full-Stack+AI%2FML+Developer+%3B+Focusing+on+RAG-based+systems+and+Cloud+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F72C2C&center=true&vCenter=true&width=1000&lines=Applied+ML+Engineer;IEEE+Published+Researcher;Building+AI+Systems+That+Ship)](https://git.io/typing-svg)
 
-##  About Me
+---
 
-I am an **Applied Machine Learning Engineer** specializing in the development and deployment of **Large Language Models (LLMs)** and **Computer Vision** systems. My work is focused on architecting **production-ready, scalable solutions** across the Health-Tech and Ed-Tech verticals.
+## About Me
 
-I prioritize moving models from research to deployment, designing for **data-driven impact** and **system reliability**. I am proficient in the full lifecycle of an AI product:
+B.Tech CSE student at **Brainware University, Kolkata** (graduating 2027) with a published **IEEE 2026** paper on intelligent scheduling for IoMT systems (**NAPSO framework** — Neutrosophic-Aware Priority Scheduling, Samsung Innovation Campus). I build AI systems that go beyond notebooks: RAG pipelines for institutional knowledge retrieval, low-cost IoT health screening for real-world deployment, and cross-platform apps that put ML directly in users' hands.
 
-* **Model Engineering:** Designing and evaluating generative AI/RAG architectures.
-* **System Design:** Building robust, containerized backends for low-latency API serving.
-* **Cross-Platform Deployment:** Leveraging frameworks like **Flutter** to deliver intelligent solutions directly to end-users.
+My focus areas: **LLMs & RAG**, **Computer Vision**, **Healthcare IoT**, and the infrastructure to take models from research to production.
+
+---
+
+## What I'm Building
+
+###  Dabba AI — Contextual RAG for Universities
+
+An end-to-end Retrieval-Augmented Generation platform designed to solve the context and privacy limitations of generic LLMs in educational institutions. It ingests unstructured academic data — syllabi, policies, past question papers — and exposes a low-latency, highly accurate, private knowledge retrieval API.
+
+**Architecture highlights:**
+- Microservice design with containerized FastAPI endpoints
+- Dense vector retrieval via **FAISS** + hybrid re-ranking
+- Document pipeline: OCR (PaddleOCR) → chunking → embedding → indexing
+- LangChain orchestration with context-aware prompt templates
+- Flutter frontend for cross-platform student access
+
+**Stack:** Python · LangChain · FAISS · HuggingFace · PaddleOCR · FastAPI · Docker · Flutter
+
+---
+
+###  SmartSant IoT — AI Health Screening in Sanitation Infrastructure
+
+A low-cost AI + IoT health screening system embedded in everyday sanitation infrastructure, built for Samsung Solve for Tomorrow 2026 (Theme: Accessible Healthcare, ages 14–22). The core insight: sanitation touchpoints are the one health interaction point that reaches every demographic, every day.
+
+**Technical approach:**
+- Edge-deployed inference on microcontroller-grade hardware
+- Anomaly detection for early disease indicators via sensor fusion
+- Fog computing layer to aggregate and pre-process data before cloud sync
+- Designed for sub-₹500 BOM cost per unit for real-world scale
+
+**Stack:** Python · TensorFlow Lite · MQTT · Edge MCUs · Firebase
 
 
 
+## My Stack
 
 ```mermaid
 flowchart LR
-    A[ MY SKILLS]:::root
+    A[MY SKILLS]:::root
 
-    %% ===== CORE ML =====
-    subgraph B[ Core ML & Data]
+    subgraph B[Core ML & Data]
         B1[Python]
         B2[NumPy]
         B3[Pandas]
-        B4[Scikit Learn]
+        B4[Scikit-Learn]
     end
 
-    %% ===== GEN AI =====
-    subgraph C[ Generative AI and RAG]
+    subgraph C[Generative AI & RAG]
         C1[LangChain]
         C2[RAG Pipelines]
         C3[FAISS]
@@ -35,92 +62,68 @@ flowchart LR
         C5[OpenAI APIs]
     end
 
-    %% ===== VISION =====
-    subgraph D[ Deep Learning and Vision]
+    subgraph D[Deep Learning & Vision]
         D1[PyTorch]
         D2[Transformers]
         D3[OpenCV]
         D4[PaddleOCR]
     end
 
-    %% ===== MLOPS =====
-    subgraph E[ MLOps and Experimentation]
+    subgraph E[MLOps & Experimentation]
         E1[MLflow]
-        E2[Weights and Biases]
-        E3[CI CD Automation]
+        E2[Weights & Biases]
+        E3[CI/CD Automation]
     end
 
-    %% ===== FULL STACK =====
-    subgraph F[ Full Stack Engineering]
-        F1[React and Next.js]
+    subgraph F[Full-Stack Engineering]
+        F1[React / Next.js]
         F2[Flutter]
         F3[Node.js]
         F4[Databases]
-        F5[Docker and Git]
+        F5[Docker & Git]
     end
 
-    %% Connections
     A --> B
     A --> C
     A --> D
     A --> E
     A --> F
 
-    %% Styles
     classDef root fill:#020617,color:#ffffff,stroke:#22c55e,stroke-width:4px;
-
     style B fill:#0f172a,stroke:#38bdf8,stroke-width:3px,color:#e5e7eb
     style C fill:#2a143a,stroke:#e879f9,stroke-width:3px,color:#f5d0fe
     style D fill:#0f2a1d,stroke:#4ade80,stroke-width:3px,color:#dcfce7
     style E fill:#2a1f0f,stroke:#facc15,stroke-width:3px,color:#fef9c3
     style F fill:#0b1c2d,stroke:#60a5fa,stroke-width:3px,color:#dbeafe
-
-
 ```
+
+| Domain | Tools |
+| :--- | :--- |
+| **Core ML** | Python, NumPy, Pandas, Scikit-Learn |
+| **Generative AI & RAG** | LangChain, FAISS, HuggingFace, OpenAI APIs |
+| **Deep Learning & Vision** | PyTorch, Transformers, OpenCV, PaddleOCR |
+| **MLOps** | MLflow, Weights & Biases, CI/CD, Docker |
+| **Full-Stack** | React, Next.js, Node.js, Flutter, Firebase, Supabase, MySQL |
+| **Languages** | Python, JavaScript/TypeScript, Dart, Java |
 
 ---
 
-##  What I'm Building
+## GitHub Stats
 
-## Dabba AI Ecosystem: A Technical Deep Dive
-Project Title: Contextual RAG System for Enterprise Knowledge Retrieval
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chandril-mallick&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandril-mallick&layout=compact&theme=radical&hide_border=true" height="160"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandril-mallick&theme=radical&hide_border=true"/>
+</p>
 
-This is my flagship project: an end-to-end Retrieval-Augmented Generation (RAG) platform designed to solve the context and privacy challenges of generalized LLMs within educational institutions. It transforms vast, unstructured academic data (syllabi, policies, Q-papers) into a highly accurate, private, and interactive knowledge retrieval system.
+---
 
-The system is engineered as a microservice architecture built for scalability and low-latency querying
+## Let's Connect
 
-
-
-##  My Core Technical Competencies
-
-I maintain a versatile stack to manage the entire AI product lifecycle, from model training and deployment to full-stack application development.
-
-###  Applied Machine Learning & Generative AI 
-
-| Core ML & Data | RAG & Orchestration | Deep Learning & Vision | MLOps & Experimentation |
-| :--- | :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![LangChain](https://img.shields.io/badge/LangChain-1A73E8?style=for-the-badge&logo=chainlink&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) |
-| ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) | ![RAG](https://img.shields.io/badge/RAG-Pipeline-8E44AD?style=for-the-badge) | ![Transformers](https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=yellow) | ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black) |
-| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![FAISS](https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge&logo=apache&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white) | ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white) |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC21B?style=for-the-badge&logo=huggingface&logoColor=black) | ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0057FF?style=for-the-badge&logo=paddlepaddle&logoColor=white) | |
-| | ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white) | | |
-
-<br>
-
-###  Software Engineering & Deployment 
-
-| Cloud & Containerization | Frontend & Mobile | Backend & Databases | Other Languages |
-| :--- | :--- | :--- | :--- |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
-| | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | |
-| | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | |
-| *Core Web:* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | | *Data Tools:* ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) | |
-
-##  Let's Connect
-
-I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out!
+Open to collaborations in AI/ML, healthcare IoT, and edtech. Reach out anytime.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/chandril-mallick-522b61259" target="_blank">
@@ -133,28 +136,16 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 ---
 
-## ❤️ Support My Work
+## Support the Work
 
----
-
-##  Fuel the Mission
-
-I’m building India’s next-gen AI + IoT innovations —  
-from SmartSant IoT (AI disease prediction) to Dabba AI (self-learning university AI ecosystem).
-
-If you believe in the vision, support the journey.
-
-### **💖 Become a Sponsor**
+I'm building AI systems for real-world problems in healthcare and education — from NAPSO's IoMT scheduling research to SmartSant's field-deployable health screening. If the work resonates, sponsorship helps keep it going.
 
 <a href="https://github.com/sponsors/chandril-mallick">
-  <img src="https://img.shields.io/badge/Sponsor%20Me-FF4081?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sponsor-FF4081?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</div>
 
 ---
 
-
----
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=chandril-mallick.chandril-mallick" alt="Profile views"/>
 </p>
