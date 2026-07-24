@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="260" viewBox="0 0 420 260" role="img" aria-label="ASCII portrait placeholder">
+  <rect x="0" y="0" width="420" height="260" rx="12" fill="#091220"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#8dd4ff">
+    <text x="30" y="40">            ....''''....</text>
+    <text x="30" y="60">        ..''            ''..</text>
+    <text x="30" y="80">      .'  add a source photo  '.</text>
+    <text x="30" y="100">     /   assets/photo-ready.png  \</text>
+    <text x="30" y="120">    ;  then run render_portrait.py ;</text>
+    <text x="30" y="140">    |                               |</text>
+    <text x="30" y="160">    ;    this is a live placeholder ;</text>
+    <text x="30" y="180">     \                             /</text>
+    <text x="30" y="200">      '.                       .'</text>
+    <text x="30" y="220">        ''..               ..''</text>
+    <text x="30" y="240">            ''''.......''''</text>
+  </g>
+</svg>
