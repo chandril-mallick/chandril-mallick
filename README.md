@@ -1,16 +1,19 @@
 <div align="center">
 
-<h3><code>$ contributions.log</code></h3>
-<img src="./graph.svg" width="820" alt="GitHub Contribution Graph" />
 
-<br><br>
 
-<h3><code>$ about me</code></h3>
+<h3><code>$ about me.log</code></h3>
 <table>
   <tr>
     <td valign="top"><img src="./portrait.svg" width="360" alt="ASCII Portrait" /></td>
     <td valign="top"><img src="./sysinfo.svg" width="460" alt="System Info Panel" /></td>
   </tr>
 </table>
+<h3><code>$ contributions.log</code></h3>
+<img src="./graph.svg" width="820" alt="GitHub Contribution Graph" />
+
+<br><br>
+
+
 
 </div>
