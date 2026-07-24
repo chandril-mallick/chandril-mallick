@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 329" width="460" height="329">
 <style>
-      .bg { fill: #0d1117; rx: 10px; }
+      .bg { fill: #0d1117; }
       .header-bar { fill: #161b22; }
       .btn-red { fill: #ff5f56; }
       .btn-yellow { fill: #ffbd2e; }
@@ -12,7 +12,7 @@
       .cursor { fill: #58a6ff; }
       .divider { stroke: #21262d; stroke-width: 1px; stroke-dasharray: 3 3; }
     </style>
-<rect width="460" height="329" class="bg" stroke="#30363d" stroke-width="1"/>
+<rect width="460" height="329" rx="10" ry="10" class="bg" stroke="#30363d" stroke-width="1"/>
 <path d="M 0 10 Q 0 0 10 0 L 450 0 Q 460 0 460 10 L 460 34 L 0 34 Z" class="header-bar"/>
 <circle cx="16" cy="17" r="5" class="btn-red"/>
 <circle cx="32" cy="17" r="5" class="btn-yellow"/>
@@ -29,7 +29,7 @@
   <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.4s" fill="freeze" />
 
   <text x="22" y="88" class="label">role:</text>
-  <text x="100" y="88" class="val">AI Engineer & Full-Stack Developer</text>
+  <text x="100" y="88" class="val">AI Engineer &amp; Full-Stack Developer</text>
   <line x1="22" y1="98" x2="438" y2="98" class="divider" />
 </g>
 <g opacity="0">

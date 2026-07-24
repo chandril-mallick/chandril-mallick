@@ -6,6 +6,7 @@ ROWS = [
     ("role", "AI Engineer & Full-Stack Developer"),
     ("focus", "Multi-Agent Systems · RAG · HealthTech"),
     ("stack", "Python · LangChain · FastAPI · Docker"),
+    ("building", "HealX · PathShala AI · Dabba AI"),
     ("exp", "Samsung AI Intern · IEEE Researcher"),
     ("site", "chandril-dev.online"),
 ]
@@ -25,9 +26,9 @@ def render_panel(output_path="sysinfo.svg"):
     svg_parts = []
     svg_parts.append(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" width="{width}" height="{height}">')
     
-    # Styles
+    # Styles (standard CSS properties only)
     svg_parts.append('''<style>
-      .bg { fill: #0d1117; rx: 10px; }
+      .bg { fill: #0d1117; }
       .header-bar { fill: #161b22; }
       .btn-red { fill: #ff5f56; }
       .btn-yellow { fill: #ffbd2e; }
@@ -40,8 +41,8 @@ def render_panel(output_path="sysinfo.svg"):
       .divider { stroke: #21262d; stroke-width: 1px; stroke-dasharray: 3 3; }
     </style>''')
     
-    # Window container
-    svg_parts.append(f'<rect width="{width}" height="{height}" class="bg" stroke="#30363d" stroke-width="1"/>')
+    # Window container with rounded corners
+    svg_parts.append(f'<rect width="{width}" height="{height}" rx="10" ry="10" class="bg" stroke="#30363d" stroke-width="1"/>')
     # Header bar
     svg_parts.append(f'<path d="M 0 10 Q 0 0 10 0 L {width-10} 0 Q {width} 0 {width} 10 L {width} {header_height} L 0 {header_height} Z" class="header-bar"/>')
     svg_parts.append('<circle cx="16" cy="17" r="5" class="btn-red"/>')
@@ -54,6 +55,10 @@ def render_panel(output_path="sysinfo.svg"):
         y_pos = pad_top + i * row_height
         delay = round(0.1 + i * 0.3, 2)
         
+        # Escape XML entities for key and val
+        safe_key = key.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+        safe_val = val.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+        
         if not is_preview:
             anim_html = (
                 f'<g opacity="0">\n'
@@ -65,10 +70,10 @@ def render_panel(output_path="sysinfo.svg"):
         svg_parts.append(anim_html)
         
         # Label & Value
-        svg_parts.append(f'  <text x="{pad_left}" y="{y_pos}" class="label">{key}:</text>')
-        svg_parts.append(f'  <text x="{pad_left + 78}" y="{y_pos}" class="val">{val}</text>')
+        svg_parts.append(f'  <text x="{pad_left}" y="{y_pos}" class="label">{safe_key}:</text>')
+        svg_parts.append(f'  <text x="{pad_left + 78}" y="{y_pos}" class="val">{safe_val}</text>')
         
-        # Divider
+        # Divider line
         if i < len(ROWS) - 1:
             line_y = y_pos + 10
             svg_parts.append(f'  <line x1="{pad_left}" y1="{line_y}" x2="{width - pad_left}" y2="{line_y}" class="divider" />')
