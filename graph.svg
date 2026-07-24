@@ -1,0 +1,887 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="877" height="206" viewBox="0 0 877 206" role="img" aria-label="Contribution graph for chandril-mallick">
+<defs>
+<style>
+.bg{fill:#070b14}.label{font:12px ui-monospace,monospace;fill:#9fb3c8}
+.title{font:600 14px ui-monospace,monospace;fill:#d8e7f5}
+.footer{font:11px ui-monospace,monospace;fill:#7f9bb5}
+</style>
+</defs>
+<rect class="bg" x="0" y="0" width="877" height="206" rx="12"/>
+<text class="title" x="48" y="20">$ contributions --user chandril-mallick</text>
+<text class="label" x="10" y="43">Mon</text>
+<text class="label" x="10" y="73">Wed</text>
+<text class="label" x="10" y="103">Fri</text>
+<g>
+<clipPath id="col-0">
+<rect x="47" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.0s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-0)">
+<rect x="48" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>padding</title></rect>
+<rect x="48" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>padding</title></rect>
+<rect x="48" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>padding</title></rect>
+<rect x="48" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>padding</title></rect>
+<rect x="48" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>padding</title></rect>
+<rect x="48" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>padding</title></rect>
+<rect x="48" y="122" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-07-20: activity level 1</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-1">
+<rect x="62" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.04s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-1)">
+<rect x="63" y="32" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-07-21: activity level 1</title></rect>
+<rect x="63" y="47" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-07-22: activity level 1</title></rect>
+<rect x="63" y="62" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-07-23: activity level 1</title></rect>
+<rect x="63" y="77" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-07-24: activity level 1</title></rect>
+<rect x="63" y="92" width="12" height="12" rx="2" fill="#1867a3" opacity="0.98"><title>2025-07-25: activity level 2</title></rect>
+<rect x="63" y="107" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-07-26: activity level 1</title></rect>
+<rect x="63" y="122" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-07-27: activity level 1</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-2">
+<rect x="77" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.08s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-2)">
+<rect x="78" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-07-28: activity level 0</title></rect>
+<rect x="78" y="47" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-07-29: activity level 1</title></rect>
+<rect x="78" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-07-30: activity level 0</title></rect>
+<rect x="78" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-07-31: activity level 0</title></rect>
+<rect x="78" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-08-01: activity level 0</title></rect>
+<rect x="78" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-08-02: activity level 0</title></rect>
+<rect x="78" y="122" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-08-03: activity level 1</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-3">
+<rect x="92" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.12s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-3)">
+<rect x="93" y="32" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-08-04: activity level 1</title></rect>
+<rect x="93" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-08-05: activity level 0</title></rect>
+<rect x="93" y="62" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-08-06: activity level 1</title></rect>
+<rect x="93" y="77" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-08-07: activity level 1</title></rect>
+<rect x="93" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-08-08: activity level 0</title></rect>
+<rect x="93" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-08-09: activity level 0</title></rect>
+<rect x="93" y="122" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-08-10: activity level 1</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-4">
+<rect x="107" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.16s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-4)">
+<rect x="108" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-08-11: activity level 0</title></rect>
+<rect x="108" y="47" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-08-12: activity level 1</title></rect>
+<rect x="108" y="62" width="12" height="12" rx="2" fill="#1867a3" opacity="0.98"><title>2025-08-13: activity level 2</title></rect>
+<rect x="108" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-08-14: activity level 0</title></rect>
+<rect x="108" y="92" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-08-15: activity level 1</title></rect>
+<rect x="108" y="107" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-08-16: activity level 1</title></rect>
+<rect x="108" y="122" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-08-17: activity level 1</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-5">
+<rect x="122" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.2s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-5)">
+<rect x="123" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-08-18: activity level 0</title></rect>
+<rect x="123" y="47" width="12" height="12" rx="2" fill="#1867a3" opacity="0.98"><title>2025-08-19: activity level 2</title></rect>
+<rect x="123" y="62" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-08-20: activity level 1</title></rect>
+<rect x="123" y="77" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-08-21: activity level 1</title></rect>
+<rect x="123" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-08-22: activity level 0</title></rect>
+<rect x="123" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-08-23: activity level 0</title></rect>
+<rect x="123" y="122" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-08-24: activity level 1</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-6">
+<rect x="137" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.24s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-6)">
+<rect x="138" y="32" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-08-25: activity level 1</title></rect>
+<rect x="138" y="47" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-08-26: activity level 1</title></rect>
+<rect x="138" y="62" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-08-27: activity level 1</title></rect>
+<rect x="138" y="77" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-08-28: activity level 1</title></rect>
+<rect x="138" y="92" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-08-29: activity level 1</title></rect>
+<rect x="138" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-08-30: activity level 0</title></rect>
+<rect x="138" y="122" width="12" height="12" rx="2" fill="#1867a3" opacity="0.98"><title>2025-08-31: activity level 2</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-7">
+<rect x="152" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.28s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-7)">
+<rect x="153" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-09-01: activity level 0</title></rect>
+<rect x="153" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-09-02: activity level 0</title></rect>
+<rect x="153" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-09-03: activity level 0</title></rect>
+<rect x="153" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-09-04: activity level 0</title></rect>
+<rect x="153" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-09-05: activity level 0</title></rect>
+<rect x="153" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-09-06: activity level 0</title></rect>
+<rect x="153" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-09-07: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-8">
+<rect x="167" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.32s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-8)">
+<rect x="168" y="32" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-09-08: activity level 1</title></rect>
+<rect x="168" y="47" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-09-09: activity level 1</title></rect>
+<rect x="168" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-09-10: activity level 0</title></rect>
+<rect x="168" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-09-11: activity level 0</title></rect>
+<rect x="168" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-09-12: activity level 0</title></rect>
+<rect x="168" y="107" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-09-13: activity level 1</title></rect>
+<rect x="168" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-09-14: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-9">
+<rect x="182" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.36s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-9)">
+<rect x="183" y="32" width="12" height="12" rx="2" fill="#2f8fd5" opacity="0.98"><title>2025-09-15: activity level 3</title></rect>
+<rect x="183" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-09-16: activity level 0</title></rect>
+<rect x="183" y="62" width="12" height="12" rx="2" fill="#90caf9" opacity="0.98"><title>2025-09-17: activity level 4</title></rect>
+<rect x="183" y="77" width="12" height="12" rx="2" fill="#2f8fd5" opacity="0.98"><title>2025-09-18: activity level 3</title></rect>
+<rect x="183" y="92" width="12" height="12" rx="2" fill="#90caf9" opacity="0.98"><title>2025-09-19: activity level 4</title></rect>
+<rect x="183" y="107" width="12" height="12" rx="2" fill="#90caf9" opacity="0.98"><title>2025-09-20: activity level 4</title></rect>
+<rect x="183" y="122" width="12" height="12" rx="2" fill="#90caf9" opacity="0.98"><title>2025-09-21: activity level 4</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-10">
+<rect x="197" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.4s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-10)">
+<rect x="198" y="32" width="12" height="12" rx="2" fill="#2f8fd5" opacity="0.98"><title>2025-09-22: activity level 3</title></rect>
+<rect x="198" y="47" width="12" height="12" rx="2" fill="#2f8fd5" opacity="0.98"><title>2025-09-23: activity level 3</title></rect>
+<rect x="198" y="62" width="12" height="12" rx="2" fill="#1867a3" opacity="0.98"><title>2025-09-24: activity level 2</title></rect>
+<rect x="198" y="77" width="12" height="12" rx="2" fill="#90caf9" opacity="0.98"><title>2025-09-25: activity level 4</title></rect>
+<rect x="198" y="92" width="12" height="12" rx="2" fill="#2f8fd5" opacity="0.98"><title>2025-09-26: activity level 3</title></rect>
+<rect x="198" y="107" width="12" height="12" rx="2" fill="#90caf9" opacity="0.98"><title>2025-09-27: activity level 4</title></rect>
+<rect x="198" y="122" width="12" height="12" rx="2" fill="#2f8fd5" opacity="0.98"><title>2025-09-28: activity level 3</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-11">
+<rect x="212" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.44s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-11)">
+<rect x="213" y="32" width="12" height="12" rx="2" fill="#2f8fd5" opacity="0.98"><title>2025-09-29: activity level 3</title></rect>
+<rect x="213" y="47" width="12" height="12" rx="2" fill="#90caf9" opacity="0.98"><title>2025-09-30: activity level 4</title></rect>
+<rect x="213" y="62" width="12" height="12" rx="2" fill="#2f8fd5" opacity="0.98"><title>2025-10-01: activity level 3</title></rect>
+<rect x="213" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-10-02: activity level 0</title></rect>
+<rect x="213" y="92" width="12" height="12" rx="2" fill="#90caf9" opacity="0.98"><title>2025-10-03: activity level 4</title></rect>
+<rect x="213" y="107" width="12" height="12" rx="2" fill="#90caf9" opacity="0.98"><title>2025-10-04: activity level 4</title></rect>
+<rect x="213" y="122" width="12" height="12" rx="2" fill="#90caf9" opacity="0.98"><title>2025-10-05: activity level 4</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-12">
+<rect x="227" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.48s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-12)">
+<rect x="228" y="32" width="12" height="12" rx="2" fill="#1867a3" opacity="0.98"><title>2025-10-06: activity level 2</title></rect>
+<rect x="228" y="47" width="12" height="12" rx="2" fill="#2f8fd5" opacity="0.98"><title>2025-10-07: activity level 3</title></rect>
+<rect x="228" y="62" width="12" height="12" rx="2" fill="#90caf9" opacity="0.98"><title>2025-10-08: activity level 4</title></rect>
+<rect x="228" y="77" width="12" height="12" rx="2" fill="#90caf9" opacity="0.98"><title>2025-10-09: activity level 4</title></rect>
+<rect x="228" y="92" width="12" height="12" rx="2" fill="#90caf9" opacity="0.98"><title>2025-10-10: activity level 4</title></rect>
+<rect x="228" y="107" width="12" height="12" rx="2" fill="#90caf9" opacity="0.98"><title>2025-10-11: activity level 4</title></rect>
+<rect x="228" y="122" width="12" height="12" rx="2" fill="#2f8fd5" opacity="0.98"><title>2025-10-12: activity level 3</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-13">
+<rect x="242" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.52s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-13)">
+<rect x="243" y="32" width="12" height="12" rx="2" fill="#2f8fd5" opacity="0.98"><title>2025-10-13: activity level 3</title></rect>
+<rect x="243" y="47" width="12" height="12" rx="2" fill="#1867a3" opacity="0.98"><title>2025-10-14: activity level 2</title></rect>
+<rect x="243" y="62" width="12" height="12" rx="2" fill="#2f8fd5" opacity="0.98"><title>2025-10-15: activity level 3</title></rect>
+<rect x="243" y="77" width="12" height="12" rx="2" fill="#90caf9" opacity="0.98"><title>2025-10-16: activity level 4</title></rect>
+<rect x="243" y="92" width="12" height="12" rx="2" fill="#1867a3" opacity="0.98"><title>2025-10-17: activity level 2</title></rect>
+<rect x="243" y="107" width="12" height="12" rx="2" fill="#2f8fd5" opacity="0.98"><title>2025-10-18: activity level 3</title></rect>
+<rect x="243" y="122" width="12" height="12" rx="2" fill="#90caf9" opacity="0.98"><title>2025-10-19: activity level 4</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-14">
+<rect x="257" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.56s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-14)">
+<rect x="258" y="32" width="12" height="12" rx="2" fill="#2f8fd5" opacity="0.98"><title>2025-10-20: activity level 3</title></rect>
+<rect x="258" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-10-21: activity level 0</title></rect>
+<rect x="258" y="62" width="12" height="12" rx="2" fill="#2f8fd5" opacity="0.98"><title>2025-10-22: activity level 3</title></rect>
+<rect x="258" y="77" width="12" height="12" rx="2" fill="#90caf9" opacity="0.98"><title>2025-10-23: activity level 4</title></rect>
+<rect x="258" y="92" width="12" height="12" rx="2" fill="#2f8fd5" opacity="0.98"><title>2025-10-24: activity level 3</title></rect>
+<rect x="258" y="107" width="12" height="12" rx="2" fill="#90caf9" opacity="0.98"><title>2025-10-25: activity level 4</title></rect>
+<rect x="258" y="122" width="12" height="12" rx="2" fill="#90caf9" opacity="0.98"><title>2025-10-26: activity level 4</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-15">
+<rect x="272" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.6s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-15)">
+<rect x="273" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-10-27: activity level 0</title></rect>
+<rect x="273" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-10-28: activity level 0</title></rect>
+<rect x="273" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-10-29: activity level 0</title></rect>
+<rect x="273" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-10-30: activity level 0</title></rect>
+<rect x="273" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-10-31: activity level 0</title></rect>
+<rect x="273" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-11-01: activity level 0</title></rect>
+<rect x="273" y="122" width="12" height="12" rx="2" fill="#1867a3" opacity="0.98"><title>2025-11-02: activity level 2</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-16">
+<rect x="287" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.64s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-16)">
+<rect x="288" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-11-03: activity level 0</title></rect>
+<rect x="288" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-11-04: activity level 0</title></rect>
+<rect x="288" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-11-05: activity level 0</title></rect>
+<rect x="288" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-11-06: activity level 0</title></rect>
+<rect x="288" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-11-07: activity level 0</title></rect>
+<rect x="288" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-11-08: activity level 0</title></rect>
+<rect x="288" y="122" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-11-09: activity level 1</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-17">
+<rect x="302" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.68s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-17)">
+<rect x="303" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-11-10: activity level 0</title></rect>
+<rect x="303" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-11-11: activity level 0</title></rect>
+<rect x="303" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-11-12: activity level 0</title></rect>
+<rect x="303" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-11-13: activity level 0</title></rect>
+<rect x="303" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-11-14: activity level 0</title></rect>
+<rect x="303" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-11-15: activity level 0</title></rect>
+<rect x="303" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-11-16: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-18">
+<rect x="317" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.72s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-18)">
+<rect x="318" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-11-17: activity level 0</title></rect>
+<rect x="318" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-11-18: activity level 0</title></rect>
+<rect x="318" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-11-19: activity level 0</title></rect>
+<rect x="318" y="77" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-11-20: activity level 1</title></rect>
+<rect x="318" y="92" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-11-21: activity level 1</title></rect>
+<rect x="318" y="107" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-11-22: activity level 1</title></rect>
+<rect x="318" y="122" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-11-23: activity level 1</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-19">
+<rect x="332" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.76s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-19)">
+<rect x="333" y="32" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-11-24: activity level 1</title></rect>
+<rect x="333" y="47" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-11-25: activity level 1</title></rect>
+<rect x="333" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-11-26: activity level 0</title></rect>
+<rect x="333" y="77" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-11-27: activity level 1</title></rect>
+<rect x="333" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-11-28: activity level 0</title></rect>
+<rect x="333" y="107" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-11-29: activity level 1</title></rect>
+<rect x="333" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-11-30: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-20">
+<rect x="347" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.8s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-20)">
+<rect x="348" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-12-01: activity level 0</title></rect>
+<rect x="348" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-12-02: activity level 0</title></rect>
+<rect x="348" y="62" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-12-03: activity level 1</title></rect>
+<rect x="348" y="77" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-12-04: activity level 1</title></rect>
+<rect x="348" y="92" width="12" height="12" rx="2" fill="#1867a3" opacity="0.98"><title>2025-12-05: activity level 2</title></rect>
+<rect x="348" y="107" width="12" height="12" rx="2" fill="#1867a3" opacity="0.98"><title>2025-12-06: activity level 2</title></rect>
+<rect x="348" y="122" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-12-07: activity level 1</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-21">
+<rect x="362" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.84s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-21)">
+<rect x="363" y="32" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-12-08: activity level 1</title></rect>
+<rect x="363" y="47" width="12" height="12" rx="2" fill="#2f8fd5" opacity="0.98"><title>2025-12-09: activity level 3</title></rect>
+<rect x="363" y="62" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-12-10: activity level 1</title></rect>
+<rect x="363" y="77" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-12-11: activity level 1</title></rect>
+<rect x="363" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-12-12: activity level 0</title></rect>
+<rect x="363" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-12-13: activity level 0</title></rect>
+<rect x="363" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-12-14: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-22">
+<rect x="377" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.88s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-22)">
+<rect x="378" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-12-15: activity level 0</title></rect>
+<rect x="378" y="47" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-12-16: activity level 1</title></rect>
+<rect x="378" y="62" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-12-17: activity level 1</title></rect>
+<rect x="378" y="77" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-12-18: activity level 1</title></rect>
+<rect x="378" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-12-19: activity level 0</title></rect>
+<rect x="378" y="107" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-12-20: activity level 1</title></rect>
+<rect x="378" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-12-21: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-23">
+<rect x="392" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.92s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-23)">
+<rect x="393" y="32" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-12-22: activity level 1</title></rect>
+<rect x="393" y="47" width="12" height="12" rx="2" fill="#1867a3" opacity="0.98"><title>2025-12-23: activity level 2</title></rect>
+<rect x="393" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-12-24: activity level 0</title></rect>
+<rect x="393" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2025-12-25: activity level 0</title></rect>
+<rect x="393" y="92" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-12-26: activity level 1</title></rect>
+<rect x="393" y="107" width="12" height="12" rx="2" fill="#1867a3" opacity="0.98"><title>2025-12-27: activity level 2</title></rect>
+<rect x="393" y="122" width="12" height="12" rx="2" fill="#2f8fd5" opacity="0.98"><title>2025-12-28: activity level 3</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-24">
+<rect x="407" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="0.96s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-24)">
+<rect x="408" y="32" width="12" height="12" rx="2" fill="#1867a3" opacity="0.98"><title>2025-12-29: activity level 2</title></rect>
+<rect x="408" y="47" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-12-30: activity level 1</title></rect>
+<rect x="408" y="62" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2025-12-31: activity level 1</title></rect>
+<rect x="408" y="77" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-01-01: activity level 1</title></rect>
+<rect x="408" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-02: activity level 0</title></rect>
+<rect x="408" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-03: activity level 0</title></rect>
+<rect x="408" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-04: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-25">
+<rect x="422" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.0s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-25)">
+<rect x="423" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-05: activity level 0</title></rect>
+<rect x="423" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-06: activity level 0</title></rect>
+<rect x="423" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-07: activity level 0</title></rect>
+<rect x="423" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-08: activity level 0</title></rect>
+<rect x="423" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-09: activity level 0</title></rect>
+<rect x="423" y="107" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-01-10: activity level 1</title></rect>
+<rect x="423" y="122" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-01-11: activity level 1</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-26">
+<rect x="437" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.04s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-26)">
+<rect x="438" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-12: activity level 0</title></rect>
+<rect x="438" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-13: activity level 0</title></rect>
+<rect x="438" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-14: activity level 0</title></rect>
+<rect x="438" y="77" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-01-15: activity level 1</title></rect>
+<rect x="438" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-16: activity level 0</title></rect>
+<rect x="438" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-17: activity level 0</title></rect>
+<rect x="438" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-18: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-27">
+<rect x="452" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.08s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-27)">
+<rect x="453" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-19: activity level 0</title></rect>
+<rect x="453" y="47" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-01-20: activity level 1</title></rect>
+<rect x="453" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-21: activity level 0</title></rect>
+<rect x="453" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-22: activity level 0</title></rect>
+<rect x="453" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-23: activity level 0</title></rect>
+<rect x="453" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-24: activity level 0</title></rect>
+<rect x="453" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-25: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-28">
+<rect x="467" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.12s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-28)">
+<rect x="468" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-26: activity level 0</title></rect>
+<rect x="468" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-27: activity level 0</title></rect>
+<rect x="468" y="62" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-01-28: activity level 1</title></rect>
+<rect x="468" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-29: activity level 0</title></rect>
+<rect x="468" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-01-30: activity level 0</title></rect>
+<rect x="468" y="107" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-01-31: activity level 1</title></rect>
+<rect x="468" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-01: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-29">
+<rect x="482" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.16s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-29)">
+<rect x="483" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-02: activity level 0</title></rect>
+<rect x="483" y="47" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-02-03: activity level 1</title></rect>
+<rect x="483" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-04: activity level 0</title></rect>
+<rect x="483" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-05: activity level 0</title></rect>
+<rect x="483" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-06: activity level 0</title></rect>
+<rect x="483" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-07: activity level 0</title></rect>
+<rect x="483" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-08: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-30">
+<rect x="497" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.2s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-30)">
+<rect x="498" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-09: activity level 0</title></rect>
+<rect x="498" y="47" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-02-10: activity level 1</title></rect>
+<rect x="498" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-11: activity level 0</title></rect>
+<rect x="498" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-12: activity level 0</title></rect>
+<rect x="498" y="92" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-02-13: activity level 1</title></rect>
+<rect x="498" y="107" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-02-14: activity level 1</title></rect>
+<rect x="498" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-15: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-31">
+<rect x="512" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.24s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-31)">
+<rect x="513" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-16: activity level 0</title></rect>
+<rect x="513" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-17: activity level 0</title></rect>
+<rect x="513" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-18: activity level 0</title></rect>
+<rect x="513" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-19: activity level 0</title></rect>
+<rect x="513" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-20: activity level 0</title></rect>
+<rect x="513" y="107" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-02-21: activity level 1</title></rect>
+<rect x="513" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-22: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-32">
+<rect x="527" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.28s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-32)">
+<rect x="528" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-23: activity level 0</title></rect>
+<rect x="528" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-24: activity level 0</title></rect>
+<rect x="528" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-25: activity level 0</title></rect>
+<rect x="528" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-26: activity level 0</title></rect>
+<rect x="528" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-27: activity level 0</title></rect>
+<rect x="528" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-02-28: activity level 0</title></rect>
+<rect x="528" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-01: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-33">
+<rect x="542" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.32s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-33)">
+<rect x="543" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-02: activity level 0</title></rect>
+<rect x="543" y="47" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-03-03: activity level 1</title></rect>
+<rect x="543" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-04: activity level 0</title></rect>
+<rect x="543" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-05: activity level 0</title></rect>
+<rect x="543" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-06: activity level 0</title></rect>
+<rect x="543" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-07: activity level 0</title></rect>
+<rect x="543" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-08: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-34">
+<rect x="557" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.36s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-34)">
+<rect x="558" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-09: activity level 0</title></rect>
+<rect x="558" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-10: activity level 0</title></rect>
+<rect x="558" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-11: activity level 0</title></rect>
+<rect x="558" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-12: activity level 0</title></rect>
+<rect x="558" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-13: activity level 0</title></rect>
+<rect x="558" y="107" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-03-14: activity level 1</title></rect>
+<rect x="558" y="122" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-03-15: activity level 1</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-35">
+<rect x="572" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.4s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-35)">
+<rect x="573" y="32" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-03-16: activity level 1</title></rect>
+<rect x="573" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-17: activity level 0</title></rect>
+<rect x="573" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-18: activity level 0</title></rect>
+<rect x="573" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-19: activity level 0</title></rect>
+<rect x="573" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-20: activity level 0</title></rect>
+<rect x="573" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-21: activity level 0</title></rect>
+<rect x="573" y="122" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-03-22: activity level 1</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-36">
+<rect x="587" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.44s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-36)">
+<rect x="588" y="32" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-03-23: activity level 1</title></rect>
+<rect x="588" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-24: activity level 0</title></rect>
+<rect x="588" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-25: activity level 0</title></rect>
+<rect x="588" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-26: activity level 0</title></rect>
+<rect x="588" y="92" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-03-27: activity level 1</title></rect>
+<rect x="588" y="107" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-03-28: activity level 1</title></rect>
+<rect x="588" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-29: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-37">
+<rect x="602" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.48s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-37)">
+<rect x="603" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-30: activity level 0</title></rect>
+<rect x="603" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-03-31: activity level 0</title></rect>
+<rect x="603" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-01: activity level 0</title></rect>
+<rect x="603" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-02: activity level 0</title></rect>
+<rect x="603" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-03: activity level 0</title></rect>
+<rect x="603" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-04: activity level 0</title></rect>
+<rect x="603" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-05: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-38">
+<rect x="617" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.52s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-38)">
+<rect x="618" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-06: activity level 0</title></rect>
+<rect x="618" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-07: activity level 0</title></rect>
+<rect x="618" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-08: activity level 0</title></rect>
+<rect x="618" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-09: activity level 0</title></rect>
+<rect x="618" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-10: activity level 0</title></rect>
+<rect x="618" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-11: activity level 0</title></rect>
+<rect x="618" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-12: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-39">
+<rect x="632" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.56s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-39)">
+<rect x="633" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-13: activity level 0</title></rect>
+<rect x="633" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-14: activity level 0</title></rect>
+<rect x="633" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-15: activity level 0</title></rect>
+<rect x="633" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-16: activity level 0</title></rect>
+<rect x="633" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-17: activity level 0</title></rect>
+<rect x="633" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-18: activity level 0</title></rect>
+<rect x="633" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-19: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-40">
+<rect x="647" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.6s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-40)">
+<rect x="648" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-20: activity level 0</title></rect>
+<rect x="648" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-21: activity level 0</title></rect>
+<rect x="648" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-22: activity level 0</title></rect>
+<rect x="648" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-23: activity level 0</title></rect>
+<rect x="648" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-24: activity level 0</title></rect>
+<rect x="648" y="107" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-04-25: activity level 1</title></rect>
+<rect x="648" y="122" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-04-26: activity level 1</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-41">
+<rect x="662" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.64s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-41)">
+<rect x="663" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-27: activity level 0</title></rect>
+<rect x="663" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-28: activity level 0</title></rect>
+<rect x="663" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-29: activity level 0</title></rect>
+<rect x="663" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-04-30: activity level 0</title></rect>
+<rect x="663" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-01: activity level 0</title></rect>
+<rect x="663" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-02: activity level 0</title></rect>
+<rect x="663" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-03: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-42">
+<rect x="677" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.68s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-42)">
+<rect x="678" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-04: activity level 0</title></rect>
+<rect x="678" y="47" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-05-05: activity level 1</title></rect>
+<rect x="678" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-06: activity level 0</title></rect>
+<rect x="678" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-07: activity level 0</title></rect>
+<rect x="678" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-08: activity level 0</title></rect>
+<rect x="678" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-09: activity level 0</title></rect>
+<rect x="678" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-10: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-43">
+<rect x="692" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.72s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-43)">
+<rect x="693" y="32" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-05-11: activity level 1</title></rect>
+<rect x="693" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-12: activity level 0</title></rect>
+<rect x="693" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-13: activity level 0</title></rect>
+<rect x="693" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-14: activity level 0</title></rect>
+<rect x="693" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-15: activity level 0</title></rect>
+<rect x="693" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-16: activity level 0</title></rect>
+<rect x="693" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-17: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-44">
+<rect x="707" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.76s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-44)">
+<rect x="708" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-18: activity level 0</title></rect>
+<rect x="708" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-19: activity level 0</title></rect>
+<rect x="708" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-20: activity level 0</title></rect>
+<rect x="708" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-21: activity level 0</title></rect>
+<rect x="708" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-22: activity level 0</title></rect>
+<rect x="708" y="107" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-05-23: activity level 1</title></rect>
+<rect x="708" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-24: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-45">
+<rect x="722" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.8s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-45)">
+<rect x="723" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-25: activity level 0</title></rect>
+<rect x="723" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-26: activity level 0</title></rect>
+<rect x="723" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-27: activity level 0</title></rect>
+<rect x="723" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-28: activity level 0</title></rect>
+<rect x="723" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-29: activity level 0</title></rect>
+<rect x="723" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-30: activity level 0</title></rect>
+<rect x="723" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-05-31: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-46">
+<rect x="737" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.84s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-46)">
+<rect x="738" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-01: activity level 0</title></rect>
+<rect x="738" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-02: activity level 0</title></rect>
+<rect x="738" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-03: activity level 0</title></rect>
+<rect x="738" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-04: activity level 0</title></rect>
+<rect x="738" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-05: activity level 0</title></rect>
+<rect x="738" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-06: activity level 0</title></rect>
+<rect x="738" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-07: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-47">
+<rect x="752" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.88s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-47)">
+<rect x="753" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-08: activity level 0</title></rect>
+<rect x="753" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-09: activity level 0</title></rect>
+<rect x="753" y="62" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-06-10: activity level 1</title></rect>
+<rect x="753" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-11: activity level 0</title></rect>
+<rect x="753" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-12: activity level 0</title></rect>
+<rect x="753" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-13: activity level 0</title></rect>
+<rect x="753" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-14: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-48">
+<rect x="767" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.92s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-48)">
+<rect x="768" y="32" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-06-15: activity level 1</title></rect>
+<rect x="768" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-16: activity level 0</title></rect>
+<rect x="768" y="62" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-06-17: activity level 1</title></rect>
+<rect x="768" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-18: activity level 0</title></rect>
+<rect x="768" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-19: activity level 0</title></rect>
+<rect x="768" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-20: activity level 0</title></rect>
+<rect x="768" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-21: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-49">
+<rect x="782" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="1.96s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-49)">
+<rect x="783" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-22: activity level 0</title></rect>
+<rect x="783" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-23: activity level 0</title></rect>
+<rect x="783" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-24: activity level 0</title></rect>
+<rect x="783" y="77" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-06-25: activity level 1</title></rect>
+<rect x="783" y="92" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-06-26: activity level 1</title></rect>
+<rect x="783" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-27: activity level 0</title></rect>
+<rect x="783" y="122" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-06-28: activity level 1</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-50">
+<rect x="797" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="2.0s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-50)">
+<rect x="798" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-29: activity level 0</title></rect>
+<rect x="798" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-06-30: activity level 0</title></rect>
+<rect x="798" y="62" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-07-01: activity level 1</title></rect>
+<rect x="798" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-07-02: activity level 0</title></rect>
+<rect x="798" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-07-03: activity level 0</title></rect>
+<rect x="798" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-07-04: activity level 0</title></rect>
+<rect x="798" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-07-05: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-51">
+<rect x="812" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="2.04s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-51)">
+<rect x="813" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-07-06: activity level 0</title></rect>
+<rect x="813" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-07-07: activity level 0</title></rect>
+<rect x="813" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-07-08: activity level 0</title></rect>
+<rect x="813" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-07-09: activity level 0</title></rect>
+<rect x="813" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-07-10: activity level 0</title></rect>
+<rect x="813" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-07-11: activity level 0</title></rect>
+<rect x="813" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-07-12: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-52">
+<rect x="827" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="2.08s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-52)">
+<rect x="828" y="32" width="12" height="12" rx="2" fill="#12446a" opacity="0.98"><title>2026-07-13: activity level 1</title></rect>
+<rect x="828" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-07-14: activity level 0</title></rect>
+<rect x="828" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-07-15: activity level 0</title></rect>
+<rect x="828" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-07-16: activity level 0</title></rect>
+<rect x="828" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-07-17: activity level 0</title></rect>
+<rect x="828" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-07-18: activity level 0</title></rect>
+<rect x="828" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-07-19: activity level 0</title></rect>
+</g>
+</g>
+<g>
+<clipPath id="col-53">
+<rect x="842" y="31" width="0" height="104">
+<animate attributeName="width" from="0" to="14" begin="2.12s" dur="0.22s" fill="freeze" />
+</rect>
+</clipPath>
+<g clip-path="url(#col-53)">
+<rect x="843" y="32" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-07-20: activity level 0</title></rect>
+<rect x="843" y="47" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-07-21: activity level 0</title></rect>
+<rect x="843" y="62" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-07-22: activity level 0</title></rect>
+<rect x="843" y="77" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-07-23: activity level 0</title></rect>
+<rect x="843" y="92" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>2026-07-24: activity level 0</title></rect>
+<rect x="843" y="107" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>padding</title></rect>
+<rect x="843" y="122" width="12" height="12" rx="2" fill="#121826" opacity="0.98"><title>padding</title></rect>
+</g>
+</g>
+<text class="footer" x="48" y="161">less</text>
+<rect x="82" y="151" width="12" height="12" rx="2" fill="#121826" />
+<rect x="98" y="151" width="12" height="12" rx="2" fill="#12446a" />
+<rect x="114" y="151" width="12" height="12" rx="2" fill="#1867a3" />
+<rect x="130" y="151" width="12" height="12" rx="2" fill="#2f8fd5" />
+<rect x="146" y="151" width="12" height="12" rx="2" fill="#90caf9" />
+<text class="footer" x="170" y="161">more</text>
+<text class="footer" x="48" y="186">total=1451  streak=0d  best=Sunday</text>
+<text class="footer" x="645" y="186">updated 2026-07-24T16:57:20+00:00</text>
+</svg>
