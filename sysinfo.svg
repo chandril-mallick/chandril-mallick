@@ -1,61 +1,74 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 260" width="460" height="260">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 329" width="460" height="329">
 <style>
       .bg { fill: #0d1117; rx: 10px; }
       .header-bar { fill: #161b22; }
       .btn-red { fill: #ff5f56; }
       .btn-yellow { fill: #ffbd2e; }
       .btn-green { fill: #27c93f; }
-      .title { fill: #8b949e; font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 11px; font-weight: 600; }
-      .label { fill: #38bdf8; font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 12.5px; font-weight: 600; }
-      .val { fill: #c9d1d9; font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 12.5px; }
-      .prompt { fill: #7ee787; font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 12.5px; font-weight: 600; }
+      .title { fill: #8b949e; font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 11.5px; font-weight: 600; }
+      .label { fill: #38bdf8; font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 12px; font-weight: 600; }
+      .val { fill: #c9d1d9; font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 12px; }
+      .prompt { fill: #7ee787; font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 12px; font-weight: 600; }
       .cursor { fill: #58a6ff; }
+      .divider { stroke: #21262d; stroke-width: 1px; stroke-dasharray: 3 3; }
     </style>
-<rect width="460" height="260" class="bg" stroke="#30363d" stroke-width="1"/>
-<path d="M 0 10 Q 0 0 10 0 L 450 0 Q 460 0 460 10 L 460 32 L 0 32 Z" class="header-bar"/>
-<circle cx="16" cy="16" r="5" class="btn-red"/>
-<circle cx="32" cy="16" r="5" class="btn-yellow"/>
-<circle cx="48" cy="16" r="5" class="btn-green"/>
-<text x="230" y="20" text-anchor="middle" class="title">sysinfo.sh — zsh</text>
-<g opacity="0" transform="translate(0, 0)">
+<rect width="460" height="329" class="bg" stroke="#30363d" stroke-width="1"/>
+<path d="M 0 10 Q 0 0 10 0 L 450 0 Q 460 0 460 10 L 460 34 L 0 34 Z" class="header-bar"/>
+<circle cx="16" cy="17" r="5" class="btn-red"/>
+<circle cx="32" cy="17" r="5" class="btn-yellow"/>
+<circle cx="48" cy="17" r="5" class="btn-green"/>
+<text x="230" y="21" text-anchor="middle" class="title">sysinfo.sh — zsh</text>
+<g opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.1s" fill="freeze" />
 
-  <text x="20" y="48" class="label">user:</text>
-  <text x="100" y="48" class="val">chandril-mallick</text>
+  <text x="22" y="56" class="label">user:</text>
+  <text x="100" y="56" class="val">chandril-mallick</text>
+  <line x1="22" y1="66" x2="438" y2="66" class="divider" />
 </g>
-<g opacity="0" transform="translate(0, 0)">
-  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.45s" fill="freeze" />
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.4s" fill="freeze" />
 
-  <text x="20" y="76" class="label">role:</text>
-  <text x="100" y="76" class="val">Applied ML Engineer</text>
+  <text x="22" y="88" class="label">role:</text>
+  <text x="100" y="88" class="val">AI Engineer & Full-Stack Developer</text>
+  <line x1="22" y1="98" x2="438" y2="98" class="divider" />
 </g>
-<g opacity="0" transform="translate(0, 0)">
-  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.8s" fill="freeze" />
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.7s" fill="freeze" />
 
-  <text x="20" y="104" class="label">focus:</text>
-  <text x="100" y="104" class="val">LLMs, RAG, Healthcare IoT</text>
+  <text x="22" y="120" class="label">focus:</text>
+  <text x="100" y="120" class="val">Multi-Agent Systems · RAG · HealthTech</text>
+  <line x1="22" y1="130" x2="438" y2="130" class="divider" />
 </g>
-<g opacity="0" transform="translate(0, 0)">
-  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.15s" fill="freeze" />
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.0s" fill="freeze" />
 
-  <text x="20" y="132" class="label">stack:</text>
-  <text x="100" y="132" class="val">Python · FastAPI · Flutter · Docker</text>
+  <text x="22" y="152" class="label">stack:</text>
+  <text x="100" y="152" class="val">Python · LangChain · FastAPI · Docker</text>
+  <line x1="22" y1="162" x2="438" y2="162" class="divider" />
 </g>
-<g opacity="0" transform="translate(0, 0)">
-  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.5s" fill="freeze" />
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.3s" fill="freeze" />
 
-  <text x="20" y="160" class="label">now:</text>
-  <text x="100" y="160" class="val">Building Dabba AI + SmartSant IoT</text>
+  <text x="22" y="184" class="label">building:</text>
+  <text x="100" y="184" class="val">HealX · PathShala AI · Dabba AI</text>
+  <line x1="22" y1="194" x2="438" y2="194" class="divider" />
 </g>
-<g opacity="0" transform="translate(0, 0)">
-  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.85s" fill="freeze" />
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.6s" fill="freeze" />
 
-  <text x="20" y="188" class="label">paper:</text>
-  <text x="100" y="188" class="val">IEEE 2026 · NAPSO framework</text>
+  <text x="22" y="216" class="label">exp:</text>
+  <text x="100" y="216" class="val">Samsung AI Intern · IEEE Researcher</text>
+  <line x1="22" y1="226" x2="438" y2="226" class="divider" />
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.9s" fill="freeze" />
+
+  <text x="22" y="248" class="label">site:</text>
+  <text x="100" y="248" class="val">chandril-dev.online</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.2s" fill="freeze"/>
-<text x="20" y="231" class="prompt">chandril@terminal ~ % </text>
-<rect x="195" y="221" width="8" height="13" class="cursor">
+<text x="22" y="294" class="prompt">chandril@terminal ~ % </text>
+<rect x="197" y="283" width="8" height="13" class="cursor">
   <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
 </rect>
 </g>
