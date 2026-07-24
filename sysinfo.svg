@@ -27,31 +27,31 @@
   <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.45s" fill="freeze" />
 
   <text x="20" y="76" class="label">role:</text>
-  <text x="100" y="76" class="val">Software Engineer</text>
+  <text x="100" y="76" class="val">Applied ML Engineer</text>
 </g>
 <g opacity="0" transform="translate(0, 0)">
   <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.8s" fill="freeze" />
 
   <text x="20" y="104" class="label">focus:</text>
-  <text x="100" y="104" class="val">Distributed Systems & ML Infrastructure</text>
+  <text x="100" y="104" class="val">LLMs, RAG, Healthcare IoT</text>
 </g>
 <g opacity="0" transform="translate(0, 0)">
   <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.15s" fill="freeze" />
 
   <text x="20" y="132" class="label">stack:</text>
-  <text x="100" y="132" class="val">Go · Rust · Python · C++ · Postgres</text>
+  <text x="100" y="132" class="val">Python · FastAPI · Flutter · Docker</text>
 </g>
 <g opacity="0" transform="translate(0, 0)">
   <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.5s" fill="freeze" />
 
   <text x="20" y="160" class="label">now:</text>
-  <text x="100" y="160" class="val">Building autonomous agentic tools & systems</text>
+  <text x="100" y="160" class="val">Building Dabba AI + SmartSant IoT</text>
 </g>
 <g opacity="0" transform="translate(0, 0)">
   <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.85s" fill="freeze" />
 
-  <text x="20" y="188" class="label">status:</text>
-  <text x="100" y="188" class="val">Available for collaboration</text>
+  <text x="20" y="188" class="label">paper:</text>
+  <text x="100" y="188" class="val">IEEE 2026 · NAPSO framework</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.2s" fill="freeze"/>
 <text x="20" y="231" class="prompt">chandril@terminal ~ % </text>

@@ -3,11 +3,11 @@ import sys
 
 ROWS = [
     ("user", "chandril-mallick"),
-    ("role", "Software Engineer"),
-    ("focus", "Distributed Systems & ML Infrastructure"),
-    ("stack", "Go · Rust · Python · C++ · Postgres"),
-    ("now", "Building autonomous agentic tools & systems"),
-    ("status", "Available for collaboration"),
+    ("role", "Applied ML Engineer"),
+    ("focus", "LLMs, RAG, Healthcare IoT"),
+    ("stack", "Python · FastAPI · Flutter · Docker"),
+    ("now", "Building Dabba AI + SmartSant IoT"),
+    ("paper", "IEEE 2026 · NAPSO framework"),
 ]
 
 def render_panel(output_path="sysinfo.svg"):
