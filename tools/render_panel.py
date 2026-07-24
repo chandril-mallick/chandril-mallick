@@ -3,22 +3,23 @@ import sys
 
 ROWS = [
     ("user", "chandril-mallick"),
-    ("role", "AI Engineer & Full-Stack Developer"),
-    ("focus", "Multi-Agent Systems · RAG · HealthTech"),
-    ("stack", "Python · LangChain · FastAPI · Docker"),
-    ("building", "HealX · PathShala AI · Dabba AI"),
-    ("exp", "Samsung AI Intern · IEEE Researcher"),
-    ("site", "chandril-dev.online"),
+    ("role", "ML Engineering Intern @ FlyRank AI"),
+    ("focus", "GenAI · RAG · Agentic Workflows · Computer Vision"),
+    ("stack", "Python · PyTorch · LangChain · FastAPI · Docker"),
+    ("genai", "LLMs · FAISS · Vector DBs · Embeddings · STT/TTS"),
+    ("cloud", "AWS (EC2/S3) · Docker · Linux · CI/CD"),
+    ("building", "VoiceFlow AI · Dabba AI · SmartSant-IoT"),
+    ("paper", "IEEE 2026 · Smart IoT Multimodal Health AI"),
 ]
 
 def render_panel(output_path="sysinfo.svg"):
     is_preview = os.environ.get("PREVIEW", "0") == "1"
     
-    width = 460
+    width = 480
     header_height = 34
-    row_height = 32
-    pad_top = 56
-    pad_bottom = 24
+    row_height = 30
+    pad_top = 54
+    pad_bottom = 22
     pad_left = 22
     
     height = pad_top + len(ROWS) * row_height + pad_bottom + 25
@@ -26,7 +27,7 @@ def render_panel(output_path="sysinfo.svg"):
     svg_parts = []
     svg_parts.append(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" width="{width}" height="{height}">')
     
-    # Styles (standard CSS properties only)
+    # Styles
     svg_parts.append('''<style>
       .bg { fill: #0d1117; }
       .header-bar { fill: #161b22; }
@@ -53,9 +54,9 @@ def render_panel(output_path="sysinfo.svg"):
     # Render rows
     for i, (key, val) in enumerate(ROWS):
         y_pos = pad_top + i * row_height
-        delay = round(0.1 + i * 0.3, 2)
+        delay = round(0.1 + i * 0.25, 2)
         
-        # Escape XML entities for key and val
+        # Escape XML entities
         safe_key = key.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
         safe_val = val.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
         
@@ -71,18 +72,18 @@ def render_panel(output_path="sysinfo.svg"):
         
         # Label & Value
         svg_parts.append(f'  <text x="{pad_left}" y="{y_pos}" class="label">{safe_key}:</text>')
-        svg_parts.append(f'  <text x="{pad_left + 78}" y="{y_pos}" class="val">{safe_val}</text>')
+        svg_parts.append(f'  <text x="{pad_left + 82}" y="{y_pos}" class="val">{safe_val}</text>')
         
         # Divider line
         if i < len(ROWS) - 1:
-            line_y = y_pos + 10
+            line_y = y_pos + 9
             svg_parts.append(f'  <line x1="{pad_left}" y1="{line_y}" x2="{width - pad_left}" y2="{line_y}" class="divider" />')
             
         svg_parts.append('</g>')
         
     # Terminal command prompt at bottom
     prompt_y = pad_top + len(ROWS) * row_height + 14
-    prompt_delay = round(0.1 + len(ROWS) * 0.3, 2)
+    prompt_delay = round(0.1 + len(ROWS) * 0.25, 2)
     
     if not is_preview:
         svg_parts.append(f'<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="{prompt_delay}s" fill="freeze"/>')
