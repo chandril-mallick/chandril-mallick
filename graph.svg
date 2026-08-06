@@ -79,7 +79,7 @@
 <g transform="translate(116, 0)" opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.18s" fill="freeze" />
   <rect x="0" y="50" width="11" height="11" fill="#161b22" class="cell"><title>2025-09-14: 0 contributions</title></rect>
-  <rect x="0" y="64" width="11" height="11" fill="#4dabf7" class="cell"><title>2025-09-15: 26 contributions</title></rect>
+  <rect x="0" y="64" width="11" height="11" fill="#a5d8ff" class="cell"><title>2025-09-15: 26 contributions</title></rect>
   <rect x="0" y="78" width="11" height="11" fill="#161b22" class="cell"><title>2025-09-16: 0 contributions</title></rect>
   <rect x="0" y="92" width="11" height="11" fill="#a5d8ff" class="cell"><title>2025-09-17: 34 contributions</title></rect>
   <rect x="0" y="106" width="11" height="11" fill="#4dabf7" class="cell"><title>2025-09-18: 18 contributions</title></rect>
@@ -99,7 +99,7 @@
 <g transform="translate(144, 0)" opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.24s" fill="freeze" />
   <rect x="0" y="50" width="11" height="11" fill="#4dabf7" class="cell"><title>2025-09-28: 18 contributions</title></rect>
-  <rect x="0" y="64" width="11" height="11" fill="#4dabf7" class="cell"><title>2025-09-29: 26 contributions</title></rect>
+  <rect x="0" y="64" width="11" height="11" fill="#a5d8ff" class="cell"><title>2025-09-29: 26 contributions</title></rect>
   <rect x="0" y="78" width="11" height="11" fill="#a5d8ff" class="cell"><title>2025-09-30: 32 contributions</title></rect>
   <rect x="0" y="92" width="11" height="11" fill="#4dabf7" class="cell"><title>2025-10-01: 23 contributions</title></rect>
   <rect x="0" y="106" width="11" height="11" fill="#161b22" class="cell"><title>2025-10-02: 0 contributions</title></rect>
@@ -129,11 +129,11 @@
 <g transform="translate(186, 0)" opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.33s" fill="freeze" />
   <rect x="0" y="50" width="11" height="11" fill="#a5d8ff" class="cell"><title>2025-10-19: 27 contributions</title></rect>
-  <rect x="0" y="64" width="11" height="11" fill="#4dabf7" class="cell"><title>2025-10-20: 26 contributions</title></rect>
+  <rect x="0" y="64" width="11" height="11" fill="#a5d8ff" class="cell"><title>2025-10-20: 26 contributions</title></rect>
   <rect x="0" y="78" width="11" height="11" fill="#161b22" class="cell"><title>2025-10-21: 0 contributions</title></rect>
   <rect x="0" y="92" width="11" height="11" fill="#4dabf7" class="cell"><title>2025-10-22: 22 contributions</title></rect>
   <rect x="0" y="106" width="11" height="11" fill="#a5d8ff" class="cell"><title>2025-10-23: 28 contributions</title></rect>
-  <rect x="0" y="120" width="11" height="11" fill="#4dabf7" class="cell"><title>2025-10-24: 26 contributions</title></rect>
+  <rect x="0" y="120" width="11" height="11" fill="#a5d8ff" class="cell"><title>2025-10-24: 26 contributions</title></rect>
   <rect x="0" y="134" width="11" height="11" fill="#a5d8ff" class="cell"><title>2025-10-25: 29 contributions</title></rect>
 </g>
 <g transform="translate(200, 0)" opacity="0">
@@ -541,9 +541,10 @@
   <rect x="0" y="50" width="11" height="11" fill="#16537e" class="cell"><title>2026-08-02: 1 contributions</title></rect>
   <rect x="0" y="64" width="11" height="11" fill="#16537e" class="cell"><title>2026-08-03: 1 contributions</title></rect>
   <rect x="0" y="78" width="11" height="11" fill="#16537e" class="cell"><title>2026-08-04: 1 contributions</title></rect>
-  <rect x="0" y="92" width="11" height="11" fill="#161b22" class="cell"><title>2026-08-05: 0 contributions</title></rect>
+  <rect x="0" y="92" width="11" height="11" fill="#16537e" class="cell"><title>2026-08-05: 1 contributions</title></rect>
+  <rect x="0" y="106" width="11" height="11" fill="#161b22" class="cell"><title>2026-08-06: 0 contributions</title></rect>
 </g>
-<text x="32" y="178" class="stats">&gt; Total: 1432 commits  |  Current Streak: 13 days  |  Longest: 18 days  |  Peak: Sunday</text>
+<text x="32" y="178" class="stats">&gt; Total: 1433 commits  |  Current Streak: 14 days  |  Longest: 18 days  |  Peak: Sunday</text>
 <text x="626" y="178" class="legend-text">Less</text>
 <rect x="658" y="169" width="11" height="11" fill="#161b22" class="cell"/>
 <rect x="672" y="169" width="11" height="11" fill="#16537e" class="cell"/>
