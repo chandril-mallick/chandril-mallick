@@ -1,53 +1,11 @@
 {
   "username": "chandril-mallick",
-  "updated_at": "2026-08-22T05:34:14.429270+00:00",
-  "total_contributions": 1406,
-  "current_streak": 30,
-  "longest_streak": 30,
+  "updated_at": "2026-08-23T05:35:46.764851+00:00",
+  "total_contributions": 1384,
+  "current_streak": 31,
+  "longest_streak": 31,
   "busiest_day": "Saturday",
   "days": [
-    {
-      "date": "2025-08-17",
-      "count": 5,
-      "level": 1,
-      "weekday": "Sunday"
-    },
-    {
-      "date": "2025-08-18",
-      "count": 0,
-      "level": 0,
-      "weekday": "Monday"
-    },
-    {
-      "date": "2025-08-19",
-      "count": 9,
-      "level": 2,
-      "weekday": "Tuesday"
-    },
-    {
-      "date": "2025-08-20",
-      "count": 8,
-      "level": 1,
-      "weekday": "Wednesday"
-    },
-    {
-      "date": "2025-08-21",
-      "count": 1,
-      "level": 1,
-      "weekday": "Thursday"
-    },
-    {
-      "date": "2025-08-22",
-      "count": 0,
-      "level": 0,
-      "weekday": "Friday"
-    },
-    {
-      "date": "2025-08-23",
-      "count": 0,
-      "level": 0,
-      "weekday": "Saturday"
-    },
     {
       "date": "2025-08-24",
       "count": 2,
@@ -2228,9 +2186,15 @@
     },
     {
       "date": "2026-08-22",
+      "count": 1,
+      "level": 1,
+      "weekday": "Saturday"
+    },
+    {
+      "date": "2026-08-23",
       "count": 0,
       "level": 0,
-      "weekday": "Saturday"
+      "weekday": "Sunday"
     }
   ]
 }
