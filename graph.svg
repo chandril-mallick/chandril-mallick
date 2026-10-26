@@ -28,7 +28,7 @@
 </g>
 <g transform="translate(46, 0)" opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.03s" fill="freeze" />
-  <rect x="0" y="50" width="11" height="11" fill="#1c7ed6" class="cell"><title>2025-11-02: 13 contributions</title></rect>
+  <rect x="0" y="50" width="11" height="11" fill="#4dabf7" class="cell"><title>2025-11-02: 13 contributions</title></rect>
   <rect x="0" y="64" width="11" height="11" fill="#161b22" class="cell"><title>2025-11-03: 0 contributions</title></rect>
   <rect x="0" y="78" width="11" height="11" fill="#161b22" class="cell"><title>2025-11-04: 0 contributions</title></rect>
   <rect x="0" y="92" width="11" height="11" fill="#161b22" class="cell"><title>2025-11-05: 0 contributions</title></rect>
@@ -59,12 +59,12 @@
 <g transform="translate(88, 0)" opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.12s" fill="freeze" />
   <rect x="0" y="50" width="11" height="11" fill="#16537e" class="cell"><title>2025-11-23: 5 contributions</title></rect>
-  <rect x="0" y="64" width="11" height="11" fill="#16537e" class="cell"><title>2025-11-24: 7 contributions</title></rect>
+  <rect x="0" y="64" width="11" height="11" fill="#1c7ed6" class="cell"><title>2025-11-24: 7 contributions</title></rect>
   <rect x="0" y="78" width="11" height="11" fill="#16537e" class="cell"><title>2025-11-25: 1 contributions</title></rect>
   <rect x="0" y="92" width="11" height="11" fill="#161b22" class="cell"><title>2025-11-26: 0 contributions</title></rect>
   <rect x="0" y="106" width="11" height="11" fill="#16537e" class="cell"><title>2025-11-27: 4 contributions</title></rect>
   <rect x="0" y="120" width="11" height="11" fill="#161b22" class="cell"><title>2025-11-28: 0 contributions</title></rect>
-  <rect x="0" y="134" width="11" height="11" fill="#16537e" class="cell"><title>2025-11-29: 7 contributions</title></rect>
+  <rect x="0" y="134" width="11" height="11" fill="#1c7ed6" class="cell"><title>2025-11-29: 7 contributions</title></rect>
 </g>
 <g transform="translate(102, 0)" opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.15s" fill="freeze" />
@@ -80,7 +80,7 @@
   <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.18s" fill="freeze" />
   <rect x="0" y="50" width="11" height="11" fill="#1c7ed6" class="cell"><title>2025-12-07: 8 contributions</title></rect>
   <rect x="0" y="64" width="11" height="11" fill="#16537e" class="cell"><title>2025-12-08: 2 contributions</title></rect>
-  <rect x="0" y="78" width="11" height="11" fill="#4dabf7" class="cell"><title>2025-12-09: 19 contributions</title></rect>
+  <rect x="0" y="78" width="11" height="11" fill="#a5d8ff" class="cell"><title>2025-12-09: 19 contributions</title></rect>
   <rect x="0" y="92" width="11" height="11" fill="#16537e" class="cell"><title>2025-12-10: 5 contributions</title></rect>
   <rect x="0" y="106" width="11" height="11" fill="#16537e" class="cell"><title>2025-12-11: 2 contributions</title></rect>
   <rect x="0" y="120" width="11" height="11" fill="#161b22" class="cell"><title>2025-12-12: 0 contributions</title></rect>
@@ -109,9 +109,9 @@
 <g transform="translate(158, 0)" opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.27s" fill="freeze" />
   <rect x="0" y="50" width="11" height="11" fill="#4dabf7" class="cell"><title>2025-12-28: 18 contributions</title></rect>
-  <rect x="0" y="64" width="11" height="11" fill="#1c7ed6" class="cell"><title>2025-12-29: 14 contributions</title></rect>
+  <rect x="0" y="64" width="11" height="11" fill="#4dabf7" class="cell"><title>2025-12-29: 14 contributions</title></rect>
   <rect x="0" y="78" width="11" height="11" fill="#16537e" class="cell"><title>2025-12-30: 1 contributions</title></rect>
-  <rect x="0" y="92" width="11" height="11" fill="#16537e" class="cell"><title>2025-12-31: 7 contributions</title></rect>
+  <rect x="0" y="92" width="11" height="11" fill="#1c7ed6" class="cell"><title>2025-12-31: 7 contributions</title></rect>
   <rect x="0" y="106" width="11" height="11" fill="#16537e" class="cell"><title>2026-01-01: 3 contributions</title></rect>
   <rect x="0" y="120" width="11" height="11" fill="#161b22" class="cell"><title>2026-01-02: 0 contributions</title></rect>
   <rect x="0" y="134" width="11" height="11" fill="#161b22" class="cell"><title>2026-01-03: 0 contributions</title></rect>
@@ -228,7 +228,7 @@
 </g>
 <g transform="translate(326, 0)" opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.63s" fill="freeze" />
-  <rect x="0" y="50" width="11" height="11" fill="#16537e" class="cell"><title>2026-03-22: 7 contributions</title></rect>
+  <rect x="0" y="50" width="11" height="11" fill="#1c7ed6" class="cell"><title>2026-03-22: 7 contributions</title></rect>
   <rect x="0" y="64" width="11" height="11" fill="#16537e" class="cell"><title>2026-03-23: 4 contributions</title></rect>
   <rect x="0" y="78" width="11" height="11" fill="#161b22" class="cell"><title>2026-03-24: 0 contributions</title></rect>
   <rect x="0" y="92" width="11" height="11" fill="#161b22" class="cell"><title>2026-03-25: 0 contributions</title></rect>
@@ -434,7 +434,7 @@
   <rect x="0" y="92" width="11" height="11" fill="#16537e" class="cell"><title>2026-08-12: 1 contributions</title></rect>
   <rect x="0" y="106" width="11" height="11" fill="#16537e" class="cell"><title>2026-08-13: 1 contributions</title></rect>
   <rect x="0" y="120" width="11" height="11" fill="#16537e" class="cell"><title>2026-08-14: 3 contributions</title></rect>
-  <rect x="0" y="134" width="11" height="11" fill="#16537e" class="cell"><title>2026-08-15: 7 contributions</title></rect>
+  <rect x="0" y="134" width="11" height="11" fill="#1c7ed6" class="cell"><title>2026-08-15: 7 contributions</title></rect>
 </g>
 <g transform="translate(620, 0)" opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="1.26s" fill="freeze" />
@@ -538,9 +538,10 @@
 </g>
 <g transform="translate(760, 0)" opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="1.56s" fill="freeze" />
-  <rect x="0" y="50" width="11" height="11" fill="#161b22" class="cell"><title>2026-10-25: 0 contributions</title></rect>
+  <rect x="0" y="50" width="11" height="11" fill="#16537e" class="cell"><title>2026-10-25: 1 contributions</title></rect>
+  <rect x="0" y="64" width="11" height="11" fill="#161b22" class="cell"><title>2026-10-26: 0 contributions</title></rect>
 </g>
-<text x="32" y="178" class="stats">&gt; Total: 532 commits  |  Current Streak: 94 days  |  Longest: 94 days  |  Peak: Sunday</text>
+<text x="32" y="178" class="stats">&gt; Total: 533 commits  |  Current Streak: 95 days  |  Longest: 95 days  |  Peak: Sunday</text>
 <text x="626" y="178" class="legend-text">Less</text>
 <rect x="658" y="169" width="11" height="11" fill="#161b22" class="cell"/>
 <rect x="672" y="169" width="11" height="11" fill="#16537e" class="cell"/>
